@@ -4,7 +4,7 @@ import org.ggq.com.algorithm.avltree.entity.AVLTree;
 
 /**
  * AVL 树测试
- * @author guoqingg_1 Date: 2019-01-10 Time: 17:46
+ * @author ggq Date: 2019-01-10 Time: 17:46
  * @version $Id$
  */
 public class AVLTreeTest {

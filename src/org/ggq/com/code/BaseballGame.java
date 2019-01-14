@@ -9,7 +9,7 @@ package org.ggq.com.code;
  * 2. "+"（一轮的得分）：表示本轮获得的得分是前两轮有效 回合得分的总和。
  * 3. "D"（一轮的得分）：表示本轮获得的得分是前一轮有效 回合得分的两倍。
  * 4. "C"（一个操作，这不是一个回合的分数）：表示您获得的最后一个有效 回合的分数是无效的，应该被移除。
- * @author guoqingg_1 Date: 2018-11-30 Time: 19:39
+ * @author ggq Date: 2018-11-30 Time: 19:39
  * @version $Id$
  */
 public class BaseballGame {

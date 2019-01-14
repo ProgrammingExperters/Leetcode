@@ -2,7 +2,7 @@ package org.ggq.com.algorithm.avltree.entity;
 
 /**
  * 叶子节点
- * @author guoqingg_1 Date: 2019-01-10 Time: 14:22
+ * @author ggq Date: 2019-01-10 Time: 14:22
  * @version $Id$
  */
 public class AVLTreeNode<T extends Comparable<T>> {

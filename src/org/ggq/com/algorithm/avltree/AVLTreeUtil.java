@@ -7,7 +7,7 @@ import org.ggq.com.algorithm.avltree.entity.AVLTreeNode;
 /**
  * AVL 平衡二叉树
  * AVL树中任何节点的两个子树的高度最大差别为1
- * @author guoqingg_1 Date: 2019-01-09 Time: 20:54
+ * @author ggq Date: 2019-01-09 Time: 20:54
  * @version $Id$
  */
 public class AVLTreeUtil {

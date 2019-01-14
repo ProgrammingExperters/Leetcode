@@ -14,7 +14,7 @@ package org.ggq.com.code;
  * <p>
  * 求总共会发出多少份好友请求?
  *
- * @author guoqingg_1 Date: 2018-11-30 Time: 20:23
+ * @author ggq Date: 2018-11-30 Time: 20:23
  * @version $Id$
  */
 public class FriendsAges {

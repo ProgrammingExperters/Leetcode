@@ -13,7 +13,7 @@ package org.ggq.com.code;
  * 当你经过一个格子且这个格子包含一个樱桃时，你将摘到樱桃并且这个格子会变成空的（值变为0）；
  * 如果在(0, 0) 和(N-1, N-1) 之间不存在一条可经过的路径，则没有任何一个樱桃能被摘到。
  * 
- * @author guoqingg_1 Date: 2018-11-30 Time: 20:56
+ * @author ggq Date: 2018-11-30 Time: 20:56
  * @version $Id$
  */
 public class CherryPickup {
